@@ -1,4 +1,4 @@
-# Machine-Learning-Engineering
+# Machine Learning and Artificial Intelligence Application
 
 Francis Odo
 
