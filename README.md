@@ -22,21 +22,21 @@ The development of the server side of the application in Python 3, hosted on Fla
 
 Product Features
 
-Health Status Check (Health Status)
+  Health Status Check (Health Status)
 
-Provides analytical report of user health condition
+      Provides analytical report of user health condition
 
-Glucose/Sugar-Level Monitor (Glucose Monitor)
+  Glucose/Sugar-Level Monitor (Glucose Monitor)
 
-Provides the user with measures of Blood Glucose level
+      Provides the user with measures of Blood Glucose level
 
-Performance Monitor (Performance Monitor)
+  Performance Monitor (Performance Monitor)
 
-Provides the user with an analysis and percentage rating of completion of tasks in a routine.
+      Provides the user with an analysis and percentage rating of completion of tasks in a routine.
 
-Application Programming Interface (API)
+  Application Programming Interface (API)
 
-Application Programing Interface for access to other data collecting and monitoring devices
+      Application Programing Interface for access to other data collecting and monitoring devices
   
 See the Prototype section of the report for a preview.
 
